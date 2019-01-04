@@ -1,7 +1,7 @@
 module.exports = {
-  base: '/',
+  base: '/v/',
   title: 'Syd',
-  description: 'Portfolio',
+  description: 'Portofolio',
   head: [
     ['link', { rel: 'icon', href: 'https://vuepress.vuejs.org/logo.png' }]
   ],
